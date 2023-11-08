@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=compact)](https://github.com/wendylw/wendylw/edit/main/README.md)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wendylw&theme=shadow-purple	)](https://git.io/streak-stats)
