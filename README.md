@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=donut)] ![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true)
