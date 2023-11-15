@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=donut&langs_count=3) ![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=donut) ![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true)
