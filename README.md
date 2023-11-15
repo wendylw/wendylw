@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=donut)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wendylw)](https://github.com/anuraghazra/github-readme-stats)
