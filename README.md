@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 
 **Hi! here** <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20"></picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=compact&hide_border=true) ![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true&hide=issues&hide_border=true&hide_rank=true)
+![Profile views](https://komarev.com/ghpvc/?username=johnDoe&color=lightgrey&style=flat)
+
+---
+
+![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendylw&show_icons=true&hide=issues,contribs&hide_border=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendylw&layout=compact&hide_border=true) 
